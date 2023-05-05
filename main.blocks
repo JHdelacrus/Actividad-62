@@ -1,4 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="pxt-on-start"></block>
-  <block type="device_forever"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="%:S#2Hw}_lAT=gvEnGX/" x="225" y="20"><statement name="HANDLER"><block type="controls_if" id="k^0bLrXToND]jU1Ke1Z:"><mutation else="1"></mutation><value name="IF0"><shadow type="logic_boolean" id="+;S3fs0[BQ,P3_jw76+J"><field name="BOOL">TRUE</field></shadow></value></block></statement></block></xml>
