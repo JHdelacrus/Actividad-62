@@ -1,7 +1,13 @@
 basic.forever(function () {
-    if (true) {
-    	
+    if (input.temperature() > 30) {
+        basic.showLeds(`
+            # . # . #
+            . # # # .
+            # # # # #
+            . # # # .
+            # . # . #
+            `)
     } else {
-    	
+        basic.showString("" + (input.temperature()))
     }
 })
